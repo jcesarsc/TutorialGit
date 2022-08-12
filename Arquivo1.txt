@@ -1,8 +1,15 @@
 Tutorial de Git seguindo os tutoriais abaixo:
 
+Esse tutorial foi feito tomando como exemplo a pagina abaixo:
+http://www.devfuria.com.br/git/tutorial-iniciando-git/
 
+
+Outras paginas com tutorias sobre Git:
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
-http://www.devfuria.com.br/git/tutorial-iniciando-git/
+/* ------------------------------------------------------------- */
+
+Conectando o repositório local com o da web
+git remote add origin https://github.com/jcesarsc/TutorialGit.git
